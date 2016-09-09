@@ -1,0 +1,6 @@
+40d60b58-0913-425b-9ded-9fdb33630931: Prilosec, Cimetidine, Amoxicillin
+e36e5dc8-8e4e-4c80-9c43-83fb35b41b99: Cimetidine
+2cddbbf7-17a6-4ca6-b71d-7e1b45d2ea7e: L-Thyroxine, Amlodipine
+1234bbf7-17a6-4ca6-b71d-7e1b45d24424: Tylenol, Prilosec, Amoxicillin
+e36e5dc8-8e4e-4c80-9c43-83fb35b41b99: Tylenol
+e36e5dc8-8e4e-4c80-9c43-83fb35b41b99: Tylenol
