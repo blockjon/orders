@@ -3,11 +3,6 @@ import operator
 from itertools import combinations
 from collections import defaultdict
 
-"""
-Runtime complexity: O(n)
-Space complexity: O(n + log n)
-"""
-
 
 if __name__ == "__main__":
 
